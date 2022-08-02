@@ -6,4 +6,5 @@
 * CSS;
 * JavaScript
 
-1. Expanding Cards | Фотогалерея из 5 фотографий с плавной анимацией переключения | [Expanding Cards Live] ()                                                   
+Список выполненных проектов:
+1. Expanding Cards | Фотогалерея из 5 фотографий с плавной анимацией переключения | [Expanding Cards Live](https://aflamme.github.io/50-Projects-50-Days/expanding-cards/index.html)
